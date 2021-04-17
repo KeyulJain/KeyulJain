@@ -19,9 +19,11 @@ Here are some ideas to get you started:
  
  
 ---
+<center>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KeyulJain&layout=compact)](https://github.com/KeyulJain/ProfileReadme)
 
+</center>
 ---
  
  <br>
