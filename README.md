@@ -1,5 +1,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/> I'm Keyul</h1>
 
+<p align="center">
+ <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KeyulJain" alt="KeyulJain"/> </p> 
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on making a **Unique portfolio** and **flexing my Readme skills**
