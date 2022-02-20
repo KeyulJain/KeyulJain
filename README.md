@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 <p align= "center">
 <a href="https://github.com/keyuljain">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyulJain&layout=compact">
+<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyulJain&layout=compact&theme=radical">
 </a>
 </p>
 
@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="mailto:keyuljainkj@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="keyuljainkj" height="50" width="50" /></a>
 </p>
+<hr>
 
 <h3 align="center">Connect with me:<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="center">
@@ -52,6 +53,7 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/keyuljain/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="keyuljain" height="50" width="50" /></a>
 <a href="https://github.com/KeyulJain" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="keyuljain" height="50" width="50" /></a>
 </p>
+<br>
 
 <p align="center"> <a href="https://twitter.com/keyuljain" target="blank"><img src="https://img.shields.io/twitter/follow/keyuljain?logo=twitter&style=for-the-badge" alt="keyuljain" /></a> </p>
 
