@@ -44,13 +44,6 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="mailto:keyuljainkj@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="keyuljainkj" height="50" width="50" /></a>
 </p>
-<br>
-
-<hr>
-
-<p align="center"> <a href="https://twitter.com/keyuljain" target="blank"><img src="https://img.shields.io/twitter/follow/keyuljain?logo=twitter&style=for-the-badge" alt="keyuljain" /></a> </p>
-<br>
-<hr>
 
 <h3 align="center">Connect with me:<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="center">
@@ -59,31 +52,29 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/keyuljain/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="keyuljain" height="50" width="50" /></a>
 <a href="https://github.com/KeyulJain" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="keyuljain" height="50" width="50" /></a>
 </p>
-<br>
+
+<p align="center"> <a href="https://twitter.com/keyuljain" target="blank"><img src="https://img.shields.io/twitter/follow/keyuljain?logo=twitter&style=for-the-badge" alt="keyuljain" /></a> </p>
 
 <hr>
 
 <p align="center">
    <i>Special thanks to <a href="https://github.com/tusharnankani"><b>Tushar Nankani</b></a> and <a href="https://github.com/ishikkkkaaaa"><b>Ishika Kesarwani</b></a> for helping me build my readme.</i>   
 </p> 
-<br>
 
 <hr>
 
 <p align="center">
    <i><strong>Time</strong> heals everything but <strong>Time</strong> needs <strong>Time</strong></i>
-</p>    
-<br>   
+</p>   
 
 <hr>
 
 <p align="center">
 Developed with ❤️ in India 🇮🇳 
 </p>
-<br>
 
 <hr>
 
 <p align="center">
-  <img src="https://github.com/keyuljain/keyuljain/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="images\github-user-contribution.svg" alt="snake"></center>
 </p>
