@@ -33,9 +33,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-<a href="https://github.com/keyuljain">
+
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=keyuljain&count_private=true&theme=radical&show_icons=true" />
-</a>
+
 </p>
 
 <hr>
