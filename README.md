@@ -1,82 +1,57 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Keyul</h1>
+<h2 align="center">
+  Portfolio Website<br/>
+  <a href="https://keyul.vercel.app/" target="_blank">keyul.vercel.app</a>
+</h2>
+<div align="center">
+  <img alt="Demo" src="./Images/readme-img.png" />
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=KeyulJain&label=Profile%20views&color=0e75b6&style=flat" alt="KeyulJain"/> </p> 
+<br/>
 
-Here are some ideas to get you started:
+## TL;DR
 
-- 🔭 I’m currently working on making a **Unique portfolio** and **flexing my Readme skills**
-- 🌱 I’m currently trying to learn **Flutter and dart**
-- 👯 I’m looking to collaborate on **App based Projects**
-- 🤔 I’m looking for help with **Flutter and web3**
-- 💬 Ask me about **anything**
-- 🔥 <a href="https://keyuljain.github.io/KeyulJain/">Portfolio Website</a>
+You can fork this repo to modify and make changes of your own. Please give me proper credit by linking back to [KeyulJain](https://github.com/KeyulJain/Portfolio). Thanks!
 
- 
- 
-<hr>
+## Built With
 
-<p align= "center">
-<a href="https://github.com/keyuljain">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=keyuljain&theme=radical">
-</a>
-</p>
+My personal portfolio <a href="https://keyul.vercel.app/" target="_blank">keyul.vercel.app</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
- <p align="center"><a href="https://github.com/keyuljain"> <img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/coder.gif" alt="codergif" /></a> </p>
+This project was built using these technologies.
 
-<p align= "center">
-<a href="https://github.com/keyuljain">
-<img alt= "stats card" height="200px" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KeyulJain&layout=compact&theme=radical">
-</a>
-</p>
+- React.js
+- Node.js
+- Express.js
+- CSS3
+- VsCode
+- Vercel
 
-<p align="center">
+## Features
 
-<img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=keyuljain&count_private=true&theme=radical&show_icons=true" />
+**📖 Multi-Page Layout**
 
-</p>
+**🎨 Styled with React-Bootstrap and Css with easy to customize colors**
 
-<hr>
+**📱 Fully Responsive**
 
-<h3 align="center">📫 How to reach me</h3>
-<p align="center">
-<a href="mailto:keyuljainkj@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/gmail.png" alt="keyuljainkj" height="50" width="50" /></a>
-</p>
-<hr>
+## Getting Started
 
-<h3 align="center">Connect with me:<img src="https://github.com/tusharnankani/tusharnankani/blob/master/Assets/Handshake.gif" height="32px"></h3>
-<p align="center">
-<a href="https://twitter.com/keyuljain" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="keyuljain" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://in.linkedin.com/in/keyuljain" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="keyul jain" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/keyuljain/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="keyuljain" height="50" width="50" /></a>
-<a href="https://github.com/KeyulJain" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/github.png" alt="keyuljain" height="50" width="50" /></a>
-</p>
-<br>
+Clone down this repository. You will need `node.js` and `git` installed globally on your machine.
 
-<p align="center"> <a href="https://twitter.com/keyuljain" target="blank"><img src="https://img.shields.io/twitter/follow/keyuljain?logo=twitter&style=for-the-badge" alt="keyuljain" /></a> </p>
+## 🛠 Installation and Setup Instructions
 
-<hr>
+1. Installation: `npm install`
 
-<p align="center">
-   <i>Special thanks to <a href="https://github.com/tusharnankani"><b>Tushar Nankani</b></a> and <a href="https://github.com/ishikkkkaaaa"><b>Ishika Kesarwani</b></a> for helping me build my readme.</i>   
-</p> 
+2. In the project directory, you can run: `npm start`
 
-<hr>
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+The page will reload if you make edits.
 
-<p align="center">
-   <i><strong>Time</strong> heals everything but <strong>Time</strong> needs <strong>Time</strong></i>
-</p>   
+## Usage Instructions
 
-<hr>
+Open the project folder and Navigate to `/src/components/`. <br/>
+You will find all the components used and you can edit your information accordingly.
 
-<p align="center">
-Developed with ❤️ in India 🇮🇳 
-</p>
+### Show your support
 
-<hr>
-
-<p align="center">
-  <img src="images\github-user-contribution.svg" alt="snake"></center>
-</p>
+Give a ⭐ if you like this website!
